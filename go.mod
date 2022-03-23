@@ -1,6 +1,6 @@
-module github.com/e421083458/gorm
+module github.com/lishuangal/gorm
 
-go 1.12
+go 1.17
 
 require (
 	github.com/denisenkom/go-mssqldb v0.0.0-20190515213511-eb9f6a1743f3
